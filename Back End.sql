@@ -24,5 +24,3 @@ VALUES (1,'JAVA')
 VALUES (2,'C++')
 VALUES (3,'C#')
 VALUES (4,'PHP')
-
-
